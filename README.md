@@ -1,5 +1,6 @@
-#Asp.Net API: Introdução
-## Grupo:
+#  Asp.NET API: Introdução
+
+## Grupo
 ### Ariel Lopes
 ### Isabel Catão
 ### Hugo Diniz
